@@ -1,0 +1,6 @@
+Press LB or C for challenge menu.
+
+Press RB or tab for stats page.
+
+Press T for chat!
+
